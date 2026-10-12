@@ -14,7 +14,7 @@ Rama: `chore/setup`
 
 ## Fase 1 · UI estática `v0.1.0`
 Rama: `feat/static-list`
-- [ ] Tarjeta `EntryCard` con `@Preview`
+- [x] Tarjeta `EntryCard` con `@Preview`
 - [ ] Lista con `LazyColumn` y datos falsos
 - [ ] `Scaffold` con `TopAppBar` y botón flotante
 > Aprendes: composables, `Modifier`, `Row`/`Column`, previews, `data class`
