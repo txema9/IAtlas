@@ -4,12 +4,12 @@ Cada fase = una rama + un Pull Request + (a veces) una versión. Marca con `[x]`
 
 ## Fase 0 · Preparación `v0.0.1`
 Rama: `chore/setup`
-- [ ] Crear proyecto en Android Studio (plantilla *Empty Activity*, que ya trae Compose)
-- [ ] Recorrido guiado por los archivos generados (ver CLAUDE.md) y primer cambio en `Greeting`
-- [ ] Crear el emulador (imagen con Google Play) y ejecutar la app por primera vez
-- [ ] Revisar el `.gitignore` y crear el repo en GitHub
-- [ ] Añadir README, CLAUDE.md, docs/ y LICENSE
-- [ ] Primer commit y push
+- [x] Crear proyecto en Android Studio (plantilla *Empty Activity*, que ya trae Compose)
+- [x] Recorrido guiado por los archivos generados (ver CLAUDE.md) y primer cambio en `Greeting`
+- [x] Crear el emulador (imagen con Google Play) y ejecutar la app por primera vez
+- [x] Revisar el `.gitignore` y crear el repo en GitHub
+- [x] Añadir README, CLAUDE.md, docs/ y LICENSE
+- [x] Primer commit y push
 > Aprendes: estructura de un proyecto Android, Gradle, `git init/add/commit/push`
 
 ## Fase 1 · UI estática `v0.1.0`
